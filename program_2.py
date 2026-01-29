@@ -1,5 +1,8 @@
 
 def average_age():
+    # Josiah Hendley
+    # 1/28/26
+    # Average Age
     # Get User Input
     age1 = float(input("Enter age of friend 1: "))
     age2 = float(input("Enter age of friend 2: "))
