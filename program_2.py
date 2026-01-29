@@ -16,6 +16,6 @@ total = age1 + age2 + age3 + age4 + age5
     # Average the ages
 average + total / 5
     # Print the results
-print ( The average age is:", average)
+print ( "The average age is:", average)
 # Line which calls the above function.
 average_age()
