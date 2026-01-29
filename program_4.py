@@ -2,6 +2,9 @@
 # This program introduces a couple new concepts,
 # we'll be covering those in the weeks ahead
 def temp_conversion(celsius):
+    #Josiah Hendley
+    #1/28/26
+    # Temp Conversion
     # Write a program that converts Celsius temperatures to Fahrenheit temperatures. 
     # The formula is as follows: F = (9/5)C + 32
     # The program should ask the user to enter a temperature in Celsius, then display the temperature converted to Fahrenheit.
@@ -9,7 +12,7 @@ def temp_conversion(celsius):
     # Calculate the Fahrenheit equivalent.
     fahrenheit = 0.0
     ######################
-    # WRITE YOUR CODE HERE
+    fahrenheit = (9/5) * celsius + 32
     ######################    
 
 
